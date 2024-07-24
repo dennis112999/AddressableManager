@@ -1,4 +1,4 @@
-# AddressableManager - SpriteUtil
+# AddressableManager
 
 これは、ゲーム内のスプライトを管理および読み込むためのシンプルなUnityツールクラスです。
 
